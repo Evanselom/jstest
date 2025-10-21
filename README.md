@@ -20,7 +20,7 @@ Une page avec :
 - css/
   - index.css
 - js/
-  - main.js
+  - app.js
 - README.md (ce fichier)
 
 ## Consignes de réalisation (pas à pas pour les étudiants)
@@ -47,10 +47,3 @@ Une page avec :
 - Fonctionnalité : créer, éditer, supprimer, validation du titre.
 - Qualité du code : séparation composants / stockage / logique, fonctions pures pour manipulations.
 - UX : retours visibles (erreurs, mode édition), persistance (bonus).
-
-## Conseils pour l’enseignant
-- Faire coder en binômes.
-- Demander commits intermédiaires toutes les 20–30 minutes.
-- Corriger en expliquant `event.stopPropagation()`, `preventDefault()`, `localStorage`, et la séparation des responsabilités.
-
-## Fichiers fournis (starter + solution) : voir archive textuelle fournie séparément.
