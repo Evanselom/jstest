@@ -18,7 +18,7 @@ Une page avec :
 
 ## Structure proposée
 - css/
-  - index.css
+  - style.css
 - js/
   - app.js
 - README.md (ce fichier)
