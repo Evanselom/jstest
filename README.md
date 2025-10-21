@@ -17,17 +17,10 @@ Une page avec :
 3. Modifier / exécuter `src/main.js` si nécessaire.
 
 ## Structure proposée
-- public/
-  - index.html
-- src/
+- css/
+  - index.css
+- js/
   - main.js
-  - styles.css
-  - components/
-    - NoteForm.js
-    - NoteCard.js
-    - NotesList.js
-  - storage/
-    - storage.js
 - README.md (ce fichier)
 
 ## Consignes de réalisation (pas à pas pour les étudiants)
